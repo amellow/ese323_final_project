@@ -1,0 +1,19 @@
+Introduction:
+	- say name
+	- say name of synth
+	- anything else you have in mind, otherwise move on
+
+Slide of synths:
+	for those of you familiar with music production/music in general
+	- tons of different synths
+		- analong classics
+		- more modern digital ones
+
+basic structure:
+	- there is a basic structure that synths follow
+		- there may be more modules that synths have
+			- reverb, delays, distortion
+			- changing of phase
+
+my structure:
+	- 

@@ -1,0 +1,15 @@
+1 1M res
+1 33k res
+1 100k res
+2 2.2uF cap
+2 1uF cap
+
+have:
+uf4007 diode
+23ESA103MMF50NF potentiometer
+n3055 bjt
+74hc08 AND gate
+74hc04 inverteres
+74hc32 OR gate
+sms-1308ms-2-r speaker
+ne555 timer

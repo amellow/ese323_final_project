@@ -1,0 +1,5 @@
+create a VCO
+
+control the VCO using a potentiometer
+
+
